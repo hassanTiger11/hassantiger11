@@ -16,9 +16,13 @@
 
 **Strategist | AI & ML Engineer | Builder**
 
-I design, build, and scale data-driven products and intelligent systems that solve real-world problems — from national-scale consulting projects to AI startups aligned with Saudi Arabia’s Vision 2030.  
-My work sits at the intersection of **strategy, engineering, and applied machine learning**, and I’m passionate about transforming ideas into functional, high-impact solutions.
+I design strategies, write code, and ship AI that actually matters.
 
+## 🚀 What I Do
+
+- 💡 **Strategic Problem Solving** — translating complex challenges into actionable architectures, roadmaps, and execution models  
+- 🤖 **Machine Learning & AI Engineering** — building real, production-ready AI applications and analytics systems  
+- 🛠️ **Hands-On Development** — turning ideas into software using modern ML frameworks and scalable engineering practices  
 
 ###
 
